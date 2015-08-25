@@ -1,0 +1,55 @@
+\begin{thebibliography}{1}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\providecommand{\eprint}[2][]{\url{#2}}
+
+\bibitem{NedovicTPAMI2010}
+V.~Nedovic, A.~W.~M. Smeulders, A.~Redert, J.~M. Geusebroek.
+\newblock Stages As Models of Scene Geometry[J].
+\newblock IEEE Transactions on Pattern Analysis and Machine Intelligence.
+\newblock 2010, {\bfseries 32}(9):1673--1687
+
+\bibitem{GraphCutsICCV2001}
+Y.Y. Boykov, M.P. Jolly.
+\newblock Interactive graph cuts for optimal boundary \& region segmentation of
+  objects in ND images[C].
+\newblock Computer Vision, 2001. ICCV 2001. Proceedings. Eighth IEEE
+  International Conference on. IEEE, 2001, vol.~1, 105--112
+
+\bibitem{Mortensen:1995:ISI:218380.218442}
+Eric~N. Mortensen, William~A. Barrett.
+\newblock Intelligent scissors for image composition[C].
+\newblock Proceedings of the 22nd annual conference on Computer graphics and
+  interactive techniques. SIGGRAPH '95, New York, NY, USA: ACM, 1995, 191--198.
+\newblock \urlprefix\url{http://doi.acm.org/10.1145/218380.218442}
+
+\bibitem{IntroductionToAlgorithms}
+T.{\ }H. Cormen.
+\newblock Introduction to algorithms[M], third .
+\newblock The MIT press, 2009
+
+\bibitem{GIFEIGC:siggraph2004}
+C.{\ }Rother, V.{\ }Kolmogorov, A.{\ }Blake.
+\newblock GrabCut -Interactive Foreground Extraction using Iterated Graph
+  Cuts[C].
+\newblock Proceedings of the 31nd annual conference on Computer graphics and
+  interactive techniques. SIGGRAPH '04, ACM, 2004, 309--314
+
+\bibitem{website:Dijkstra}
+Wikipedia.
+\newblock Dijkstra's algorithm[Z], May 2012.
+\newblock \urlprefix\url{http://en.wikipedia.org/wiki/Dijkstra's_algorithm}
+
+\bibitem{liang1999java}
+S.~Liang.
+\newblock The Java native interface: programmer's guide and specification[M].
+\newblock Addison-Wesley Professional, 1999
+
+\bibitem{website:JNI}
+Andy Thomas-Cramer.
+\newblock What makes JNI calls slow[Z], Oct 2011.
+\newblock
+  \urlprefix\url{http://stackoverflow.com/questions/7699020/what-makes-jni-calls-slow}
+
+\end{thebibliography}
